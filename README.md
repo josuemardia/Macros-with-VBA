@@ -3,5 +3,5 @@
 
 ## Tecnologias
 <p>
-<a href="https://learn.microsoft.com/es-es/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="https://wyday.com/images/lm/langs/vba.1.svg" alt="dart" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/es-es/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/es-es/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="https://wyday.com/images/lm/langs/vba.1.svg" alt="vba" width="40" height="40"/> </a> <a href="https://www.microsoft.com/es-es" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft" width="40" height="40"/> </a>
 </p>
